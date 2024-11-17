@@ -1,5 +1,3 @@
-**Read more:** [settings and setups](https://www.gilmourish.com/?page_id=2119)
-
 PULSE and the 1994 world tour sees David using the most complex rig to date the period and it also marks the return of many of his old effects and amps. During the early 90s the grunge movement rediscovers Big Muffs and analog pedals and David also seem to be inspired by the resurgence of the classic pedals.
 
 The decision to perform Dark Side of the Moon in its entirety also meant going back to the album and replicate sounds for authenticity. Despite the grand scale of the stage rig David would rarely used more than 3-4 pedals at once allowing the guitar and powerful Hiwatt rig to shine through.
@@ -152,6 +150,6 @@ WEM and Marshall speaker cabinets are mic’ed with Shure SM57 and Neumann U-87 
 Acknowledgements and credits  
 PULSE (album 1995), PULSE (concert film 1995), Guitar Shop Magazine (1996), Guitarist Magazine (1995), Guitar World Magazine (1994), Guitarist Magazine 2003), emginc.com. Thanks to Frederic Peynet, Grace Hudecek, Rafal Zychal, John Roscoe and Richard Mahon for help with research. See feature for other references.
 
-## Credit
+## Credits
 
 https://www.gilmourish.com/?page_id=2117

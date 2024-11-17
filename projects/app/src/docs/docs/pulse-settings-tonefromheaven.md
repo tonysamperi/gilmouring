@@ -146,12 +146,6 @@ Sovtek Muff/Tube Driver#1/L.Chorus/Doppolas/TC2290
 **Run Like Hell  
 **CS-2/Dynacomp/Chorus/L.Chorus/Doppolas/TC2290
 
-[BACK](index2.html)
-
-var sc\_project=655241; var sc\_partition=5; var sc\_security="a590c19f"; var sc\_invisible=1;
-
-[![free geoip](http://c6.statcounter.com/counter.php?sc_project=655241&java=0&security=a590c19f&invisible=1)](http://www.statcounter.com/)
-
 ## Credit
 
 http://www.tonefromheaven.com/index2.html

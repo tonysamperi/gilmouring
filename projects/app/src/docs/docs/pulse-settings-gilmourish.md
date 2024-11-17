@@ -1,7 +1,5 @@
-PULSE settings and setups
+## PULSE settings and setups
 =========================
-
-**Read more:** [gear run-down](https://www.gilmourish.com/?page_id=2117)
 
 Keep in mind that all effect settings and setups are based on pictures and video from a certain date and/or interviews and 3rd hand transcriptions that are subject to interpretation. David often make adjustments and may not even be consequent in how he’s using the equipment. This feature should therefore only be used as a guideline for your own setup and not as a gospel. It’s also wise to acknowledge that technique, place and time, studio trickery and who knows what plays a role in David’s tones in addition to the equipment.
 

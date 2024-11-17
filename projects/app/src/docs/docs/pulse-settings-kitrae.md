@@ -75,11 +75,7 @@ Overdrive Lead Setups - in signal chain order
 
 • Boss CS-2 Compressor > MXR Dynacomp > Pete Cornish SS-2 > Tube Driver #2 (medium drive settings) > TC 2290 Digital Delay > Boss CE-2 chorus and Doppola rotating speakers
 
-* * *
-
-[![](BigMuffPage_banner2.jpg)](music_big_muff.html)......[![](Images_Secret_Music_Page/TubeDriverPageBanner.jpg)](https://www.kitrae.net/music/Music_mp3_Tube_Driver_Versions.html)......[![Mistress Mystery Page](Images_Secret_Music_Page/Mistress_mystery_page.jpg).](http://www.metzgerralf.de/elekt/stomp/mistress/index.shtml) ...[.![](Images_Secret_Music_Page/BigMuffPage_FacebookLink.jpg)](https://www.facebook.com/pages/The-Big-Muff-π-Page/1380395062246417) . .[![](Images_Secret_Music_Page/PowerBoostPageBanner.jpg)](https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html)
-
-* * *
+## SONG-BY-SONG SIGNAL CHAINS AND DELAY TIMES
 
 1994 SONG-BY-SONG SIGNAL CHAINS AND DELAY TIMES \- The 1994 Pink Floyd tour was one of the best references on how David's signal chains worked and how he used and combined certain effects. Below is my '94 tour song-by-song effects list, with all effects in the correct signal chain order and delay times. How did I get this? To start, David supplied his song-by-song _Dark Side of the Moon_ signal chains to Guitarist magazine for their July 1995 issue. Then back in the mid 2000s [The Tone from Heaven](http://www.tonefromheaven.com/) website published the first song-by-song effects list for the 1994 tour (_thanks to Rafal for putting that together!_). It was an eye opener and taught me a lot. Since then I have studied the effects signal router in several '94 bootleg concert videos (Rotterdam, Torino, Prague, Earl's Court, Philidelphia, Tempe Arizona, Oakland Coliseum, and others) and found there were many other signal chains used. I verified or updated the original list, rearranged the effects in correct chain order, added alternate patches David used throughout the tour, added missing patches and missing songs, and delay times for most songs. Many of these signal chains are probably similar to those used in the _Pulse_ concerts, but they changed throughout the tour. The LCDs showing the delay times could not be seen in any of the concert videos, so I listened to the repeats and matched them using a tap tempo on a digital delay to get the exact times, or as close as I could determine. Many of the delay times are simply matched to the song tempo, so the repeats fall on the beats.
 

@@ -1,11 +1,3 @@
-[For effects settings continue to NEXT PAGE](https://www.kitrae.net/music/David_Gilmour_Tone_Building_1B.html)
-
-[For song-by-song signal chains CLICK HERE](David_Gilmour_Tone_Building_1B.html#PulseSignalChains)
-
-[For my setups and sound clips CLICK HERE](David_Gilmour_Tone_Building_1C.html#mysetups)
-
-![](Images_Secret_Music_Page/Pink Floyd Stage_1994_8.jpg) ![](Images_Secret_Music_Page/Pink Floyd Stage_1994.jpg) ![](Images_Secret_Music_Page/CN Outro Solo_Pulse.jpg)
-
 THE 1994 _DIVISION BELL_ TOUR AND _PULSE_ LEAD TONES \- From March-October 1994 Pink Floyd performed a massive tour for their Division Bell album which was the highest grossing tour in rock music history at the time. David Gilmour's playing was spectacular and his live tones from the tour were arguably his most popular in the post Roger Waters version of the band, and possibly his most famous among Gilmour fans. David's massive live rig used on this tour was also one of the most talked about guitar rigs among Pink Floyd gear heads. I have tried to be as comprehensive here as possible, but there is also some very detailed info about David's 1994 rig and gear used can be found at [The Tone from Heaven](http://www.tonefromheaven.com/) website and [Gilmourish.com](http://www.gilmourish.com/). There is also a lot of good information in the [January 1995](Images_Secret_Music_Page/Guitarist January 1995 Scans_small.pdf) edition of Guitarist magazine, the [July 1995](Images_Secret_Music_Page/Grst_ July 1995.pdf) issue of Guitarist Magazine, and the [December 1996](Images_Secret_Music_Page/Guitar Shop December 1996 Scans_small.pdf) edition of Guitar Shop magazine.
 
 The _Division Bell_ tour was chronicled with the popular _Pulse_ live album CD / cassette / vinyl and VHS / Laser Disk concert video released in 1995, which featured the first live release of _Dark Side of the Moon_ by the band, not performed it in its entirety since the 1970s. 10 concerts at various venues in Europe were recorded, along with another 10 at Earl's Court. The _Pulse_ album was mixed from twelve different concerts recorded in August, September and October of 1994.
@@ -113,11 +105,7 @@ Gilmour's stage setup for the Earl's Court concerts in October 1994
 (left photo) Gilmour's rack effects. (middle photo) Phil Taylor, Pink Floyd's trusted backline and gear tech since 1974, seen behind the pedalboard setting up the rig with guitar in hand.  
 (right photos) Phil Taylor and his work station under the 1994 Pink Floyd tour stage. Phil is David's his right hand man and the person in charge of setting up and maintaining all of his gear.
 
-* * *
-
-[![](BigMuffPage_banner2.jpg)](music_big_muff.html)......[![](Images_Secret_Music_Page/TubeDriverPageBanner.jpg)](https://www.kitrae.net/music/Music_mp3_Tube_Driver_Versions.html)......[![Mistress Mystery Page](Images_Secret_Music_Page/Mistress_mystery_page.jpg).](http://www.metzgerralf.de/elekt/stomp/mistress/index.shtml) ...[.![](Images_Secret_Music_Page/BigMuffPage_FacebookLink.jpg)](https://www.facebook.com/pages/The-Big-Muff-π-Page/1380395062246417) . .[![](Images_Secret_Music_Page/PowerBoostPageBanner.jpg)](https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html)
-
-* * *
+## Amplifiers
 
 AMPLIFIERS \- As with Pink Floyd's [Knebworth 1990 concert](https://www.kitrae.net/music/David_Gilmour_Tone_Building_A2.html), the same Custom Hiwatt AP100s (DR103) with the preamp stages bypassed were again used, along with a modified Alembic F2-B bass preamp (Fender Twin/Showman style preamp). According to the signal chain diagram, the signal from the effects rack went into the F2-B preamp, then to David's on-stage volume pedal, then into his delays, then into a master routing unit with stereo sends to two Hiwatt AP100 amplifiers. One was used for left channel and one for the right. These "all purpose" Hiwatts were modified in 1990 so the preamps and tone stages could be bypassed. Only the Presence Control and Master Volumes were used to control the power amplification stages, and the master volumes were set to maximum. One Hiwatt powered a set of WEM and Marhsall 4x12 speaker cabinets for the right channel and the other powered a duplicate set of speaker cabs for the left channel, with a chorus added. A third Hiwatt AP100 was in the rig as a spare. There were also three Custom 100 Hiwatt Slave amps, one for the left Doppolas, one for the right Doppolas, and one connected to a dummy load box and David's Heil voice box used for the song _Keep Talking_.
 

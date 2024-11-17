@@ -1,0 +1,206 @@
+@use "@angular/material" as mat;
+
+@import "./scss/themes";
+
+@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: 400;
+  src: url("assets/fonts/MaterialIcons-Regular.woff") format("woff");
+}
+
+$light-primary: mat.get-color-from-palette($light-primary-palette);
+$light-accent: mat.get-color-from-palette($light-accent-palette);
+$light-warn: mat.get-color-from-palette($light-warn-palette);
+
+$dark-primary: mat.get-color-from-palette($dark-primary-palette);
+$dark-accent: mat.get-color-from-palette($dark-accent-palette);
+
+body {
+  margin: 0;
+  font-family: Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;
+
+  * {
+    box-sizing: border-box;
+  }
+
+  a {
+    &.mat-color-primary {
+      color: $light-primary;
+      text-decoration: none;
+      padding-bottom: 1px;
+      border-bottom: 2px solid rgba($light-primary, 0.25);
+      -webkit-transition: border-bottom-color 0.15s ease-in-out;
+      transition: border-bottom-color 0.15s ease-in-out;
+
+      &:hover {
+        border-bottom: 2px solid rgba($light-primary, 1);
+      }
+    }
+
+    &.mat-color-accent {
+      color: $light-accent;
+      text-decoration: none;
+      padding-bottom: 1px;
+      border-bottom: 2px solid rgba($light-accent, 0.25);
+      -webkit-transition: border-bottom-color 0.15s ease-in-out;
+      transition: border-bottom-color 0.15s ease-in-out;
+
+      &:hover {
+        border-bottom: 2px solid rgba($light-accent, 1);
+      }
+    }
+  }
+
+  .material-icons {
+    font-family: "Material Icons";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -moz-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  mat-icon.mat-icon.smp-theme-example {
+    margin-right: 0;
+    margin-left: 8px;
+  }
+
+  .smp-d-inline-block {
+    display: inline-block;
+  }
+
+  .smp-d-none {
+    display: none;
+  }
+
+  .smp-d-flex {
+    display: flex;
+  }
+
+  .smp-flex-column {
+    flex-direction: column;
+  }
+
+  .smp-align-center {
+    align-items: center;
+  }
+
+  .smp-justify-center {
+    justify-content: center;
+  }
+
+  .smp-padding {
+    padding: 16px;
+  }
+
+  .smp-top, footer {
+    background-color: $light-primary;
+    color: mat.get-contrast-color-from-palette($light-primary-palette, 500);
+  }
+
+  .mat-color-primary {
+    color: $light-primary;
+  }
+
+  .mat-color-accent {
+    color: $light-accent;
+  }
+
+  .mat-color-warn {
+    color: $light-warn;
+  }
+
+  .smp-margin-top {
+    margin-top: 8px;
+  }
+
+  .smp-margin-bottom {
+    margin-bottom: 8px;
+  }
+
+  .smp-margin-left {
+    margin-left: 8px;
+  }
+
+  .smp-box-bordered {
+    text-align: center;
+    min-height: 20px;
+    border-radius: 10px;
+    padding: 8px;
+    width: 100%;
+    border: 2px dashed $light-primary;
+  }
+
+  .smp-generic-section {
+    width: 100%;
+    min-height: 20px;
+    background-color: #F0F0F0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid #DDDDDD;
+  }
+
+  // Include the default theme styles.
+  @include mat.all-component-themes($light-theme);
+
+  &.dark-theme {
+    @include mat.all-component-themes($dark-theme);
+
+    a {
+      &.mat-color-primary {
+        color: $dark-primary;
+        border-bottom: 2px solid rgba($dark-primary, 0.25);
+
+        &:hover {
+          border-bottom: 2px solid rgba($dark-primary, 1);
+        }
+      }
+
+      &.mat-color-accent {
+        color: $dark-accent;
+        border-bottom: 2px solid rgba($dark-accent, 0.25);
+
+        &:hover {
+          border-bottom: 2px solid rgba($dark-accent, 1);
+        }
+      }
+    }
+
+    .smp-box-bordered {
+      border-color: $dark-primary;
+    }
+
+    .smp-generic-section {
+      background-color: #222;
+      border-bottom: 1px solid #000;
+    }
+
+    .smp-top, footer {
+      background-color: $dark-primary;
+      color: mat.get-color-from-palette($dark-primary-palette, default-contrast);
+    }
+
+    .mat-color-primary {
+      color: $dark-primary;
+    }
+
+    .mat-color-accent {
+      color: $dark-accent;
+    }
+
+    .mat-color-warn {
+      color: mat.get-color-from-palette($dark-warn);
+    }
+  }
+}
